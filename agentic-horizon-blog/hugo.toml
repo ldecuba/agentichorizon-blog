@@ -1,7 +1,7 @@
 baseURL = 'http://agentichorizon.blog/'
 languageCode = 'en-us'
 title = 'Agentic Horizon'
-theme = 'PaperMod'
+theme = 'Blowfish'
 
 [params]
   description = "My road to an agentic workplace"
