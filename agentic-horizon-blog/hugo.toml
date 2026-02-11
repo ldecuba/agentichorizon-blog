@@ -1,0 +1,22 @@
+baseURL = 'http://agentichorizon.blog/'
+languageCode = 'en-us'
+title = 'Agentic Horizon'
+theme = 'PaperMod'
+
+[params]
+  description = "My road to an agentic workplace"
+  author = "Lisandro de Cuba"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Over"
+    url = "/about/"
+    weight = 3

@@ -1,0 +1,6 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "agentic-horizon-blog/themes/PaperMod"]
+	path = agentic-horizon-blog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
